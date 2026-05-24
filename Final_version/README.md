@@ -1,5 +1,3 @@
-# AI Project Structure
-
 This folder is the refactored version of the original notebook project.
 
 ## Structure
