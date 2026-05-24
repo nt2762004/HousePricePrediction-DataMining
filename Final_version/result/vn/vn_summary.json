@@ -1,0 +1,8 @@
+{
+  "clean_path": "C:\\Users\\nguye\\OneDrive\\Desktop\\Data Mining\\GKCK\\Final_version\\data\\VN_BĐS_data\\property_final_clean.csv",
+  "test_metrics": {
+    "rmse_log": 0.604601716520627,
+    "rmse": 3100.4370334359105,
+    "r2_log": 0.5973932602391584
+  }
+}

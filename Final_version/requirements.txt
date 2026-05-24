@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+category_encoders
+requests
+beautifulsoup4
+joblib

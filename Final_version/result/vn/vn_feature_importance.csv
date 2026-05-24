@@ -1,0 +1,306 @@
+,importance
+cleaned_area,0.12668433361486595
+tag_tp_ho_chi_minh,0.0957091081960394
+total_floor_area,0.08869039123849116
+tag_quang_ngai,0.05458752785732803
+floor,0.0390397722920387
+total_rooms,0.034077761339382916
+road_potential,0.03203450333959186
+Loại địa ốc_bán căn hộ chung cư,0.015489572792369111
+cleaned_road,0.013182752487908945
+tag_da_nang,0.013127313210018166
+tag_vinh_long,0.012892190520788915
+is_land,0.010207482563678049
+tag_quang_ninh,0.010187425552784646
+Loại địa ốc_bán biệt thự,0.009808422551019458
+Type_City_bán đất thổ cư_an_giang,0.0068438084609603765
+bath,0.006310889929389085
+Type_City_bán đất thổ cư_dong_nai,0.0062769063634243285
+tag_dong_thap,0.005700201630004509
+Loại địa ốc_bán nhà riêng,0.005053433691083109
+Loại địa ốc_bán nhà phố dự án,0.004639299100787175
+Loại địa ốc_bán đất thổ cư,0.004442790661111906
+Type_City_bán đất thổ cư_can_tho,0.0041696146258853204
+tag_lao_cai,0.004140611758801959
+Type_City_bán đất thổ cư_khanh_hoa,0.0038885346652008934
+bed,0.003725141898757922
+Type_City_bán biệt thự_an_giang,0.003567859101708537
+Type_City_bán nhà phố dự án_khanh_hoa,0.002793711273640942
+Type_City_bán đất thổ cư_dak_lak,0.0027270810103924735
+Type_City_bán nhà phố dự án_gia_lai,0.002562400461908032
+Type_City_bán đất thổ cư_gia_lai,0.002561003278412466
+Type_City_bán nhà phố dự án_bac_ninh,0.0024486012193648985
+Type_City_bán đất nền dự án_khanh_hoa,0.0023777437287756608
+Type_City_bán nhà phố dự án_dong_nai,0.0023017586487295238
+Type_City_bán căn hộ chung cư_can_tho,0.0022370019642500515
+tag_hai_phong,0.0022151004361723016
+tag_thai_nguyen,0.0020576229319893224
+tag_ca_mau,0.0019036981997388124
+"Loại địa ốc_bán đất nông, lâm nghiệp",0.0018240003125068905
+Pháp lý_Sổ hồng,0.0017924648889729778
+Loại địa ốc_bán nhà hàng - khách sạn,0.0017205946148520113
+Type_City_bán biệt thự_thanh_hoa,0.001638102342242953
+tag_gia_lai,0.0016194441839453733
+Type_City_bán biệt thự_hung_yen,0.0016051222471559212
+Type_City_bán đất nền dự án_an_giang,0.0015927299346023104
+Pháp lý_Giấy đỏ,0.0015838420321160785
+tag_hung_yen,0.0014304492210790443
+tag_dak_lak,0.0013560616550156502
+Type_City_bán đất thổ cư_thanh_hoa,0.0012952466950133523
+Type_City_bán nhà phố dự án_ca_mau,0.001293575680421255
+tag_quang_tri,0.0012711498554276446
+Pháp lý_Hợp đồng,0.001262594944943163
+Type_City_bán nhà riêng_can_tho,0.001219287293681437
+tag_tra_vinh,0.001202589636297935
+Type_City_bán căn hộ chung cư_thanh_hoa,0.0011902594488318208
+tag_dong_nai,0.0011839443419658924
+Type_City_bán nhà riêng_tp_ho_chi_minh,0.0011421463516607
+tag_bac_ninh,0.0011400121122932428
+Type_City_bán nhà phố dự án_thai_nguyen,0.0011398808918340996
+Type_City_bán đất thổ cư_quang_ngai,0.00110337162596712
+Type_City_bán đất thổ cư_thua_thien_hue,0.0011022755900833348
+Type_City_bán biệt thự_khanh_hoa,0.0010999927942285659
+tag_an_giang,0.0010938261928058247
+Type_City_bán nhà phố dự án_vinh_long,0.0010869967183570362
+Type_City_bán nhà phố dự án_phu_tho,0.0010808280323396202
+Type_City_bán nhà riêng_thanh_hoa,0.0010507886615231498
+Type_City_bán căn hộ chung cư_bac_ninh,0.001022485940254847
+Type_City_bán nhà phố dự án_quang_tri,0.0009977717874289026
+Type_City_bán căn hộ chung cư_an_giang,0.0009922391207529912
+"Type_City_bán đất nông, lâm nghiệp_khanh_hoa",0.0009839423923030388
+Type_City_bán nhà phố dự án_can_tho,0.0009765445067230205
+Type_City_bán biệt thự_gia_lai,0.0009582097290383729
+Type_City_bán nhà phố dự án_thanh_hoa,0.0008744984254683175
+Type_City_bán biệt thự_quang_tri,0.0008691827526762896
+Type_City_bán căn hộ chung cư_nghe_an,0.0008598378332803191
+Type_City_bán nhà phố dự án_hai_phong,0.0008168949348559051
+Type_City_bán nhà phố dự án_an_giang,0.0008005517751246138
+Type_City_bán đất nền dự án_quang_ngai,0.0007899432325609412
+Type_City_bán căn hộ chung cư_khanh_hoa,0.0007641764211068436
+Type_City_bán nhà phố dự án_tp_ho_chi_minh,0.0007227871572149213
+tag_can_tho,0.000712653686818121
+Type_City_bán đất thổ cư_hung_yen,0.0007027362308469787
+Type_City_bán biệt thự_phu_tho,0.0006818126790531842
+tag_ha_tinh,0.0006769498964565024
+Type_City_bán nhà phố dự án_nghe_an,0.0006766249998329199
+Type_City_bán đất thổ cư_nghe_an,0.0006623002672832224
+Loại địa ốc_bán đất nền dự án,0.000629680126925547
+Type_City_bán biệt thự_can_tho,0.0006272361615527356
+Pháp lý_Không xác định,0.0006227763963572386
+Type_City_bán nhà phố dự án_dak_lak,0.0006128284204361511
+Type_City_bán nhà riêng_hai_phong,0.0005826254274488907
+Type_City_bán đất thổ cư_tp_ho_chi_minh,0.0005798050647327857
+Type_City_bán căn hộ chung cư_hai_phong,0.0005794574676411424
+Type_City_bán biệt thự_bac_ninh,0.0005177080386243871
+Type_City_bán biệt thự_thai_nguyen,0.0005098129016762876
+Type_City_bán căn hộ chung cư_tp_ho_chi_minh,0.0005041384912817693
+Type_City_bán căn hộ chung cư_hung_yen,0.0004946496377155718
+Type_City_bán nhà riêng_quang_tri,0.00047824856602882713
+Type_City_bán đất nền dự án_bac_ninh,0.0004774639828571292
+Pháp lý_Giấy tờ hợp lệ,0.00047609483498309844
+Type_City_bán nhà phố dự án_ninh_binh,0.0004675176615951848
+tag_thua_thien_hue,0.00046146290708142245
+Type_City_bán nhà riêng_dong_nai,0.00045168500738070885
+Type_City_bán đất nền dự án_hung_yen,0.0004466011144054649
+Type_City_bán nhà phố dự án_hung_yen,0.000441424286404879
+Type_City_bán biệt thự_hai_phong,0.00043369185547246223
+Type_City_bán căn hộ chung cư_gia_lai,0.0004222844636800227
+Type_City_bán đất thổ cư_quang_tri,0.00041698261525850987
+Type_City_bán biệt thự_thua_thien_hue,0.0003995214896917787
+Type_City_bán biệt thự_quang_ninh,0.0003984524651485133
+Type_City_bán nhà hàng - khách sạn_an_giang,0.0003835563809261533
+tag_phu_tho,0.00036864998978101136
+Type_City_bán căn hộ chung cư_dong_nai,0.000352185867400534
+tag_son_la,0.0003444605500294573
+Type_City_bán nhà riêng_khanh_hoa,0.00034239102566104853
+Type_City_bán nhà phố dự án_thua_thien_hue,0.0003422113360490364
+Type_City_bán đất thổ cư_quang_ninh,0.0003302489608544734
+Type_City_bán đất thổ cư_lao_cai,0.0003198007465922359
+Type_City_bán đất nền dự án_quang_ninh,0.0003095990097552903
+Type_City_bán biệt thự_ninh_binh,0.00029022550830291036
+tag_khanh_hoa,0.0002894654915885031
+Type_City_bán đất nền dự án_dong_nai,0.000281199574051394
+tag_ninh_binh,0.000258215746662116
+Type_City_bán đất nền dự án_gia_lai,0.0002506701917534881
+Type_City_bán căn hộ chung cư_thua_thien_hue,0.0002457540853435525
+Type_City_bán đất thổ cư_hai_phong,0.00024282427406610018
+Type_City_bán căn hộ chung cư_dak_lak,0.0002393505243670102
+"Type_City_bán căn hộ mini, dịch vụ_tp_ho_chi_minh",0.00021957525253968324
+"Type_City_bán căn hộ mini, dịch vụ_da_nang",0.0002179326477936172
+Type_City_bán nhà riêng_ninh_binh,0.00020248636662001385
+Type_City_bán biệt thự_lao_cai,0.0001959366828867992
+Pháp lý_Giấy tay,0.00019068231750460907
+"Type_City_bán đất nông, lâm nghiệp_vinh_long",0.00018900894784930068
+Type_City_bán nhà phố dự án_quang_ngai,0.00018696613093140967
+Type_City_bán nhà riêng_dak_lak,0.00018617892889982723
+tag_nghe_an,0.0001829837001805501
+Type_City_bán nhà hàng - khách sạn_khanh_hoa,0.00018222220555943469
+Type_City_bán đất nền dự án_hai_phong,0.00018053635199217767
+tag_thanh_hoa,0.00017321620864776399
+Type_City_bán biệt thự_quang_ngai,0.0001713247828905473
+Type_City_bán nhà phố dự án_tra_vinh,0.00016765882005209676
+Type_City_bán nhà riêng_quang_ninh,0.00016109643638422265
+Type_City_bán căn hộ chung cư_phu_tho,0.00016092984225613005
+"Loại địa ốc_bán căn hộ mini, dịch vụ",0.00016064489331348852
+Type_City_bán đất thổ cư_phu_tho,0.00015358094874375893
+Type_City_bán nhà hàng - khách sạn_hai_phong,0.0001509263644356329
+Type_City_bán nhà phố dự án_quang_ninh,0.0001485958460413661
+Type_City_bán biệt thự_vinh_long,0.00014838887914101485
+Type_City_bán biệt thự_dong_nai,0.00014265831802209305
+Type_City_bán đất nền dự án_can_tho,0.00013517043264286155
+Type_City_bán đất nền dự án_quang_tri,0.0001328823919628075
+Type_City_bán đất nền dự án_thua_thien_hue,0.00013190930175730476
+Type_City_bán đất thổ cư_bac_ninh,0.00013178819970156576
+Type_City_bán nhà phố dự án_tuyen_quang,0.00012925172575461996
+Type_City_bán nhà riêng_phu_tho,0.00012750818082172267
+Type_City_bán đất thổ cư_vinh_long,0.00012472023575929025
+Type_City_bán nhà riêng_da_nang,0.00012162678342559907
+Type_City_bán đất nền dự án_phu_tho,0.00011113120385963793
+Type_City_bán nhà hàng - khách sạn_quang_ninh,0.00010959467574591652
+Type_City_bán đất nền dự án_ninh_binh,0.00010403065496948916
+Type_City_bán đất nền dự án_thai_nguyen,0.00010170013369663611
+"Loại địa ốc_bán kho, nhà xưởng",9.982270080521882e-05
+Type_City_bán nhà riêng_hung_yen,8.603445781321106e-05
+Type_City_bán căn hộ chung cư_quang_tri,8.543457394589726e-05
+Type_City_bán đất thổ cư_ninh_binh,8.49455275991673e-05
+Type_City_bán căn hộ chung cư_quang_ninh,8.382232214176888e-05
+Type_City_bán căn hộ chung cư_vinh_long,8.339091136233545e-05
+"Type_City_bán đất nông, lâm nghiệp_phu_tho",8.285098892002463e-05
+"Type_City_bán đất nông, lâm nghiệp_dong_nai",7.505293294589599e-05
+Type_City_bán biệt thự_tp_ho_chi_minh,7.120159956581773e-05
+"Type_City_bán đất nông, lâm nghiệp_gia_lai",6.790398710936341e-05
+Type_City_bán nhà riêng_gia_lai,6.671418004142727e-05
+Type_City_bán biệt thự_dong_thap,6.105211267708466e-05
+Type_City_bán đất thổ cư_da_nang,6.065956078324941e-05
+Type_City_bán nhà riêng_quang_ngai,5.999253542412486e-05
+Type_City_bán đất nền dự án_dak_lak,4.6526840612348686e-05
+Type_City_bán đất nền dự án_nghe_an,4.45360958055252e-05
+"Type_City_bán kho, nhà xưởng_tp_ho_chi_minh",4.4513271430490774e-05
+Type_City_bán căn hộ chung cư_dong_thap,4.0903177371265365e-05
+Type_City_bán đất thổ cư_tuyen_quang,3.946559970089414e-05
+"Type_City_bán đất nông, lâm nghiệp_ninh_binh",3.745434335986619e-05
+tag_tuyen_quang,3.383868831536851e-05
+Type_City_bán nhà riêng_thua_thien_hue,3.3456081021387976e-05
+Type_City_bán nhà phố dự án_ha_tinh,3.22222110501702e-05
+Type_City_bán đất nền dự án_vinh_long,3.11385716194712e-05
+"Type_City_bán đất nông, lâm nghiệp_quang_ngai",2.9686367452241845e-05
+Type_City_bán nhà riêng_lao_cai,2.9397886047921594e-05
+"Type_City_bán đất nông, lâm nghiệp_dak_lak",2.899394216897555e-05
+Type_City_bán đất thổ cư_ca_mau,2.8749028105168328e-05
+Type_City_bán biệt thự_dak_lak,2.7502303685622563e-05
+"Type_City_bán đất nông, lâm nghiệp_dong_thap",2.6805469858559583e-05
+Type_City_bán căn hộ chung cư_lao_cai,2.5814225717790684e-05
+Type_City_bán nhà hàng - khách sạn_quang_tri,2.5031099400640854e-05
+Pháp lý_Đang hợp thức hóa,2.4153646093716397e-05
+Type_City_bán biệt thự_lang_son,2.3116616778828813e-05
+Type_City_bán nhà riêng_tuyen_quang,2.1416027383769354e-05
+Type_City_bán căn hộ chung cư_thai_nguyen,2.05868172240109e-05
+Type_City_bán đất thổ cư_tra_vinh,1.8655398327438454e-05
+tag_cao_bang,1.7653669312500675e-05
+Type_City_bán nhà hàng - khách sạn_bac_ninh,1.612752791460004e-05
+Type_City_bán biệt thự_son_la,1.4820982156527052e-05
+Type_City_bán đất thổ cư_lang_son,1.4764786856424906e-05
+Type_City_bán nhà riêng_dong_thap,1.2549782127524444e-05
+Pháp lý_Chủ quyền tư nhân,1.2361616884115634e-05
+Type_City_bán đất thổ cư_thai_nguyen,1.111724099545075e-05
+Type_City_bán nhà phố dự án_da_nang,1.1028304422722179e-05
+Type_City_bán biệt thự_tra_vinh,1.057546242142493e-05
+Type_City_bán biệt thự_da_nang,9.712949790730007e-06
+Type_City_bán đất thổ cư_son_la,9.10270342917574e-06
+"Type_City_bán đất nông, lâm nghiệp_thanh_hoa",7.747109186806434e-06
+Type_City_bán nhà hàng - khách sạn_dak_lak,7.114943953379083e-06
+tag_lang_son,6.723731477409345e-06
+Type_City_bán căn hộ chung cư_da_nang,5.2165919764313175e-06
+"Type_City_bán đất nông, lâm nghiệp_hai_phong",3.3336605737233072e-06
+"Type_City_bán đất nông, lâm nghiệp_bac_ninh",3.1227023078672645e-06
+Type_City_bán nhà riêng_son_la,1.9703354030786714e-06
+Type_City_bán nhà phố dự án_son_la,1.3895265715380134e-06
+Type_City_bán nhà riêng_tra_vinh,9.741545283548091e-07
+Type_City_bán đất thổ cư_dien_bien,0.0
+"Type_City_bán đất nông, lâm nghiệp_tra_vinh",0.0
+tag_dien_bien,0.0
+Type_City_bán biệt thự_cao_bang,0.0
+Type_City_bán căn hộ chung cư_tra_vinh,0.0
+Type_City_bán đất nền dự án_ca_mau,0.0
+Type_City_bán biệt thự_ha_tinh,0.0
+Type_City_bán đất nền dự án_tuyen_quang,0.0
+Type_City_bán đất thổ cư_cao_bang,0.0
+Type_City_bán căn hộ chung cư_ha_tinh,0.0
+Type_City_bán đất nền dự án_tra_vinh,0.0
+Type_City_bán căn hộ chung cư_ca_mau,0.0
+Type_City_bán đất nền dự án_dien_bien,0.0
+Type_City_bán căn hộ chung cư_quang_ngai,0.0
+Type_City_bán đất nền dự án_ha_tinh,0.0
+"Type_City_bán đất nông, lâm nghiệp_son_la",0.0
+Type_City_bán đất nền dự án_son_la,0.0
+Type_City_bán căn hộ chung cư_cao_bang,0.0
+Type_City_bán căn hộ chung cư_lang_son,0.0
+"Type_City_bán đất nông, lâm nghiệp_lao_cai",0.0
+Type_City_bán nhà hàng - khách sạn_thai_nguyen,0.0
+Type_City_bán nhà riêng_dien_bien,0.0
+"Type_City_bán căn hộ mini, dịch vụ_phu_tho",0.0
+"Type_City_bán căn hộ mini, dịch vụ_thanh_hoa",0.0
+Type_City_bán nhà riêng_ha_tinh,0.0
+Type_City_bán nhà hàng - khách sạn_son_la,0.0
+"Type_City_bán đất nông, lâm nghiệp_quang_tri",0.0
+"Type_City_bán kho, nhà xưởng_dak_lak",0.0
+Type_City_bán nhà riêng_cao_bang,0.0
+"Type_City_bán kho, nhà xưởng_dong_nai",0.0
+Type_City_bán nhà riêng_ca_mau,0.0
+"Type_City_bán kho, nhà xưởng_hai_phong",0.0
+"Type_City_bán kho, nhà xưởng_lao_cai",0.0
+"Type_City_bán kho, nhà xưởng_nghe_an",0.0
+"Type_City_bán kho, nhà xưởng_phu_tho",0.0
+"Type_City_bán kho, nhà xưởng_quang_ngai",0.0
+"Type_City_bán kho, nhà xưởng_thua_thien_hue",0.0
+Type_City_bán nhà hàng - khách sạn_ca_mau,0.0
+Type_City_bán nhà hàng - khách sạn_da_nang,0.0
+Type_City_bán nhà hàng - khách sạn_dong_nai,0.0
+Type_City_bán nhà hàng - khách sạn_lang_son,0.0
+Type_City_bán nhà hàng - khách sạn_lao_cai,0.0
+Type_City_bán nhà hàng - khách sạn_nghe_an,0.0
+Type_City_bán nhà hàng - khách sạn_ninh_binh,0.0
+"Type_City_bán căn hộ mini, dịch vụ_quang_ninh",0.0
+"Type_City_bán kho, nhà xưởng_bac_ninh",0.0
+"Type_City_bán đất nông, lâm nghiệp_ha_tinh",0.0
+"Type_City_bán căn hộ mini, dịch vụ_dong_nai",0.0
+Type_City_bán nhà hàng - khách sạn_tuyen_quang,0.0
+"Type_City_bán đất nông, lâm nghiệp_lang_son",0.0
+Type_City_bán căn hộ chung cư_tuyen_quang,0.0
+"Type_City_bán đất nông, lâm nghiệp_hung_yen",0.0
+Type_City_bán nhà hàng - khách sạn_thua_thien_hue,0.0
+Type_City_bán nhà phố dự án_cao_bang,0.0
+"Type_City_bán căn hộ mini, dịch vụ_dong_thap",0.0
+Type_City_bán nhà phố dự án_lang_son,-1.30453920366147e-06
+"Type_City_bán đất nông, lâm nghiệp_quang_ninh",-2.9087226522062083e-06
+"Type_City_bán đất nông, lâm nghiệp_ca_mau",-4.8781487657079126e-06
+"Type_City_bán kho, nhà xưởng_an_giang",-4.930228239508061e-06
+Type_City_bán đất nền dự án_dong_thap,-5.136022387919326e-06
+Type_City_bán nhà hàng - khách sạn_thanh_hoa,-5.95116507240423e-06
+"Type_City_bán đất nông, lâm nghiệp_nghe_an",-6.7077981705354615e-06
+Type_City_bán nhà hàng - khách sạn_gia_lai,-8.21729641342639e-06
+"Type_City_bán đất nông, lâm nghiệp_an_giang",-1.1671865310858286e-05
+Type_City_bán đất nền dự án_tp_ho_chi_minh,-1.1920491388628385e-05
+Type_City_bán đất nền dự án_lang_son,-1.2987789868112998e-05
+Type_City_bán đất nền dự án_lao_cai,-1.3168980626820926e-05
+Type_City_bán nhà riêng_thai_nguyen,-1.4990366364076025e-05
+Type_City_bán nhà phố dự án_lao_cai,-1.668612964578209e-05
+Type_City_bán đất nền dự án_da_nang,-1.6872390148625626e-05
+Type_City_bán đất thổ cư_ha_tinh,-1.7437817440435487e-05
+Type_City_bán nhà riêng_nghe_an,-1.8353860557596136e-05
+Type_City_bán biệt thự_nghe_an,-2.207955640816106e-05
+Type_City_bán nhà hàng - khách sạn_phu_tho,-2.3042660654493118e-05
+Type_City_bán nhà phố dự án_dong_thap,-2.660239267113784e-05
+Type_City_bán căn hộ chung cư_ninh_binh,-3.737013115168164e-05
+Type_City_bán nhà riêng_vinh_long,-5.0559202247724144e-05
+"Type_City_bán căn hộ mini, dịch vụ_khanh_hoa",-5.6734841567029906e-05
+Type_City_bán biệt thự_ca_mau,-5.728868759997674e-05
+Type_City_bán đất thổ cư_dong_thap,-6.024956117325342e-05
+Type_City_bán nhà riêng_bac_ninh,-7.122859081678534e-05
+"Type_City_bán đất nông, lâm nghiệp_tp_ho_chi_minh",-7.313582172301381e-05
+"Type_City_bán đất nông, lâm nghiệp_thua_thien_hue",-7.776672626027547e-05
+Type_City_bán đất nền dự án_thanh_hoa,-8.37412488290834e-05
+"Type_City_bán đất nông, lâm nghiệp_thai_nguyen",-9.106380943457726e-05
+Type_City_bán nhà hàng - khách sạn_tp_ho_chi_minh,-0.00012990784339705908
+Type_City_bán nhà riêng_an_giang,-0.00014286956187461452
+"Type_City_bán đất nông, lâm nghiệp_can_tho",-0.00015570482342854852
